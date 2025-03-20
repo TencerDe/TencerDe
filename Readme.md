@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Backend, Database, API and creating awesome weba apps<br><br>👨‍💻 All of my projects are available at https://tenccer.netlify.app/<br><br>📝 I regularly write articles on https://medium.com/@tsharma2907<br><br>💬 Ask me about Django, React.js, PostgreSQL,REST API, Python<br><br>📫 How to reach me tsharma2907@gmail.com
+🌱 I’m currently learning Backend, Database, API and creating awesome web apps<br><br>👨‍💻 All of my projects are available at https://tenccer.netlify.app/<br><br>📝 I regularly write articles on https://medium.com/@tsharma2907<br><br>💬 Ask me about Django, React.js, PostgreSQL,REST API, Python<br><br>📫 How to reach me tsharma2907@gmail.com
 
 
 ## 🌐 Socials:
